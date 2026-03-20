@@ -15,7 +15,7 @@ function draw() {
   textSize(20);
   text("Unidad 2: Proyecto Integrador", 20, 40);
   textSize(14);
-  text("Autor: [Tu Nombre]", 20, 65);
+  text("Autor: Angel Gabriel Acosta Zazueta", 20, 65);
   text("Flechas: Mover | A/D: Rotar | W/S: Escala | 1-6: Fractal", 20, height - 20);
 
   // 2. Transformaciones 2D
